@@ -9,8 +9,8 @@ _RULE_DEPS = [
     ),
     (
         "pypi__pkginfo",
-        "https://files.pythonhosted.org/packages/e6/d5/451b913307b478c49eb29084916639dc53a88489b993530fed0a66bab8b9/pkginfo-1.5.0.1-py2.py3-none-any.whl",
-        "a6d9e40ca61ad3ebd0b72fbadd4fba16e4c0e4df0428c041e01e06eb6ee71f32",
+        "https://files.pythonhosted.org/packages/c0/38/d617739840a2f576e400f03fea0a75703f93cc274002635b4b998bbb9de4/pkginfo-1.11.1-py3-none-any.whl",
+        "bfa76a714fdfc18a045fcd684dbfc3816b603d9d075febef17cb6582bea29573",
     ),
     (
         "pypi__setuptools",
